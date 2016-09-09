@@ -4,6 +4,7 @@ I et tidligere [blogginnlegg](http://open.bekk.no/jakten-pa-fem-tusen-skattebere
 For å beregne skatten til alle skatteyterne i Norge kreves *skattegrunnlag* og *skatteplikt*, typisk formatert som XML-dokumenter. *Skattegrunnlag* inneholder verdiene av alt du eier, tjener, skylder og har av utgifter og fradrag, mens *skatteplikt* er relevant informasjon om deg, som alder, bosted og familieforhold.  
 
 Stegene for skatteberegning er som følger:
+
 1. Hent *skattegrunnlag* og *skatteplikt*
 2. Kall skattebergnerfunksjon med de to dokumentene
 3. Lagre resultat
